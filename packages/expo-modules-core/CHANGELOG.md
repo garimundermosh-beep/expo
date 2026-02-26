@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [Android] Use the `RuntimeScheduler` to schedule tasks on the JS thread.
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
